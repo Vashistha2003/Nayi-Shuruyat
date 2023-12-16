@@ -1,0 +1,2 @@
+# Nayi-Shuruyat
+JAVA SCRIPT
